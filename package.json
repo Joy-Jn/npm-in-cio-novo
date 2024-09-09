@@ -1,0 +1,20 @@
+{
+  "name": "npm-inicio-2",
+  "version": "2.2.3",
+  "description": "Pacote de teste para ver se vai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm-inicial"
+  ],
+  "author": "Joy Nicholas",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "next": "^14.2.8"
+  }
+}
